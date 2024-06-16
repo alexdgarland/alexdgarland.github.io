@@ -1,2 +1,3 @@
 # alexdgarland.github.io
-Mis paginas de web, por supuesto :-D
+
+A site for siting some stuff.
